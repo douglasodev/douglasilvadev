@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/GoStack%20student-Rocketseat-%238c3691)](https://app.rocketseat.com.br/me/douglasilvadev)
 
-&nbsp;
 ## My Personal Stuffs
 
 - 🔭 I’m currently working - on my blogs
@@ -10,8 +9,6 @@
 - 👯 I’m looking to collaborate with - Other developers in community
 - 💬 Ask me about - Linux, Windows, Development and Life
 - 🥅 2020 Goal - Be more focused on programming 💪
-
-&nbsp;
 ## Stats
 
 <center>
@@ -24,7 +21,6 @@
 </table>
 </center>
 
-&nbsp;
 ## Connect with me:
 
 [<img align="left" alt="Douglas silva Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
