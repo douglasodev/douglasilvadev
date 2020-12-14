@@ -4,7 +4,6 @@
 
 &nbsp;
 ## My Personal Stuffs
-#
 
 - 🔭 I’m currently working - on my blogs
 - 🌱 I’m currently learning - Frontend development by CursoEmVideo
@@ -14,7 +13,7 @@
 
 &nbsp;
 ## Stats
-#
+
 <center>
 <table>
   <tr>
@@ -27,7 +26,7 @@
 
 &nbsp;
 ## Connect with me:
-#
+
 [<img align="left" alt="Douglas silva Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Douglas Silva LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Douglas Silva Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
