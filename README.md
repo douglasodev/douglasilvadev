@@ -1,4 +1,4 @@
-# Hi, I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
+# Hi there, I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
 
 [![Website](https://img.shields.io/badge/GoStack%20student-Rocketseat-%238c3691)](https://app.rocketseat.com.br/me/douglasilvadev)
 
