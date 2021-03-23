@@ -18,7 +18,7 @@ Welcome. I'm glad you're here 💜
 ## Stats
 
 <details>
-<summary> 📊 Languages Chart</summary>
+<summary> 📈 Languages Chart</summary>
   <center>
   <table>
     <tr>
@@ -36,4 +36,4 @@ Welcome. I'm glad you're here 💜
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/douglasilvax/)](https://www.facebook.com/douglasilvax/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/douglasilvax/)](https://www.instagram.com/douglasilvax/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/douglasilvax)](https://www.twitter.com/douglasilvax)
-[![Gmail Badge](https://img.shields.io/badge/-douglasilvadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasilvadev@gmail.com)](mailto:douglasilvadev.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-douglasilvadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasilvadev@gmail.com)](mailto:douglasilvadev@gmail.com)
