@@ -1,13 +1,13 @@
 # Hi there, I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
 
-Welcome. I'm glad you're here 💜
+Welcome! I'm glad you're here 💜
 
 [![Website](https://img.shields.io/badge/Ignite%20student-Rocketseat-%238c3691)](https://app.rocketseat.com.br/me/douglasilvadev)
 
 ## My Personal Stuffs
 
-- 🔭 I’m currently working - on my blog
-- 🌱 I’m currently learning - Ignite reactjs at [Rocketseat](https://github.com/rocketseat)
+- 🔭 I’m currently working - On my blog
+- 🌱 I’m currently learning - Ignite Reactjs at [Rocketseat](https://github.com/rocketseat)
 - 👯 I’m looking to collaborate with - Other developers in community
 - 💬 Ask me about - Linux, Windows, Development, Life & Health
 - 🥅 2020 Goal - Be more focused on programming 💪 ✅
@@ -30,7 +30,7 @@ Welcome. I'm glad you're here 💜
   </center>
 </details>
 
-## Reach me
+## Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasilva/)](https://www.linkedin.com/in/douglasilva/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/douglasilvax/)](https://www.facebook.com/douglasilvax/)
