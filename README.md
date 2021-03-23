@@ -7,7 +7,7 @@ Welcome. I'm glad you're here 💜
 ## My Personal Stuffs
 
 - 🔭 I’m currently working - on my blog
-- 🌱 I’m currently learning - Ignite reactjs at [@Rocketseat](https://github.com/rocketseat)
+- 🌱 I’m currently learning - Ignite reactjs at [Rocketseat](https://github.com/rocketseat)
 - 👯 I’m looking to collaborate with - Other developers in community
 - 💬 Ask me about - Linux, Windows, Development, Life & Health
 - 🥅 2020 Goal - Be more focused on programming 💪 ✅
@@ -18,7 +18,7 @@ Welcome. I'm glad you're here 💜
 ## Stats
 
 <details>
-<summary> ⚡ Languages Chart</summary>
+<summary> 📊 Languages Chart</summary>
   <center>
   <table>
     <tr>
