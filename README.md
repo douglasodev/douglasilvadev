@@ -1,39 +1,27 @@
-# Hi there, I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
+# Hi there, I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome! I'm glad you're here 💜
 
 [![Website](https://img.shields.io/badge/Ignite%20student-Rocketseat-%238c3691)](https://app.rocketseat.com.br/me/douglasilvadev)
 
-## My Personal Stuffs
+# 💫 My Personal Stuffs
 
-- 🔭 I’m currently working - On my blog
-- 🌱 I’m currently learning - Ignite Reactjs at [Rocketseat](https://github.com/rocketseat)
+- 🔭 I’m currently working - On small projects and my blog
+- 🌱 I’m currently learning - Reactjs,React Native and Nodejs at [Rocketseat](https://github.com/rocketseat)
 - 👯 I’m looking to collaborate with - Other developers in community
-- 💬 Ask me about - Linux, Windows, Development, Life & Health
-- 🥅 2020 Goal - Be more focused on programming 💪 ✅
-- 🥅 2021 Goal - Earn more XP to the next level 🚀
+- 💬 Ask me about - Tech, Dev, Linux, Windows, Life, Gaming & Health
+- 🥅 2022 Goals - Be more focused on programming 💪
+- ✅ I'll also earn more XP to the next level 🚀
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/KkVkTmGt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/douglasilvax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/douglasilvax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasilva) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DougSilva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/douglasilvax) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSCJT5iuqMzdJaLfAE0N6Gg/playlists) 
+
+# 💻 Tech Stack
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=douglasilvadev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=douglasilvadev&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasilvadev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/douglasilvadev)](https://github.com/douglasilvadev)
-
-## Stats
-
-<details>
-<summary> 📈 Languages Chart</summary>
-  <center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasilvadev&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left"
-        src="https://github-readme-stats.vercel.app/api?username=douglasilvadev&count_private=true&include_all_commits=true&theme=radical&show_icons=true" /></td>
-    </tr>
-  </table>
-  </center>
-</details>
-
-## Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasilva/)](https://www.linkedin.com/in/douglasilva/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/douglasilvax/)](https://www.facebook.com/douglasilvax/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/douglasilvax/)](https://www.instagram.com/douglasilvax/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/douglasilvax)](https://www.twitter.com/douglasilvax)
-[![Gmail Badge](https://img.shields.io/badge/-douglasilvadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasilvadev@gmail.com)](mailto:douglasilvadev@gmail.com)
