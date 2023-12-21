@@ -10,7 +10,7 @@ Welcome! I'm glad see you here 💜
 * 🌱 **Currently Exploring:** Advanced topics in Reactjs, Typescript and responsive design.
 * 👯 **Looking to Collaborate with:** Enthusiastic developers and AI enthusiasts.
 * 💬 **Ask me about:** The latest trends in technology stacks, tech career and modern development.
-* 🥅 **2023 Goals:** Contribute significantly to open-source projects, publish AI research findings.
+* 🥅 **2023/2024 Goals:** Contribute significantly to open-source projects, publish AI research findings.
 * ✅ **Also Earning:** Certifications and badges to level up my skills 🚀.
 
 
@@ -28,4 +28,4 @@ Welcome! I'm glad see you here 💜
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasilvadev&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasilvadev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/douglasilvadev)](https://github.com/douglasilvadev)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/douglasilvadev/douglasilvadev)
