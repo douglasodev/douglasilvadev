@@ -48,5 +48,5 @@ Welcome! I'm glad to see you here 💜
 -->
 <br>
 
-![Followers](https://img.shields.io/github/followers/douglasilvadev.svg?style=social&label=Follow&maxAge=2592000)
-![Visitors](https://komarev.com/ghpvc/?username=douglasilvadev&color=8234e9)
+[![Followers](https://img.shields.io/github/followers/douglasilvadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/douglasilvadev?tab=followers)
+[![Visitors](https://komarev.com/ghpvc/?username=douglasilvadev&color=8234e9)](https://github.com/douglasilvadev)
