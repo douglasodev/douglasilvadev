@@ -1,8 +1,8 @@
-# 🚀 Hey, how's it going? I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 🚀 Hey, I'm Douglas Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome! I'm glad to see you here 💜
   
-[![Website](https://img.shields.io/badge/ONE%20student-Rocketseat-%238c3691)](https://app.rocketseat.com.br/me/douglasilvadev)
+[![Website](https://img.shields.io/badge/ONE%20student-Rocketseat-%238c3691?style=for-the-badge&logo=biolink&logoColor=white)](https://app.rocketseat.com.br/me/douglasilvadev)
 
 ## 🌟 Personal Overview
 
@@ -11,11 +11,15 @@ Welcome! I'm glad to see you here 💜
 * 🤝 **Looking to Collaborate with:** Enthusiastic open source developers and LLMs lovers
 * 💬 **Ask me about:** The latest trends in tech career, health and lifestyle
 * 🥅 **2024 Goals:** Contribute significantly to open source projects and publish great findings
-* ✅ **To gain Earnings in:** Certifications and contribute by integrating into new development projects
+* ✅ **To gain Earnings in:** Certifications and contribute by integrating into new dev projects
+
+<br>
 
 ## 🌐 Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douglasilvax) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglasilvax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasilva) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@douglasilva.eu) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/douglasilvax) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/DougSilva) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dougsilvae) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@douglasilvax)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douglasilvax) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglasilvax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasilva) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@douglasilva.eu) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/douglasilvax) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/DougSilva) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dougsilvae)
+
+<br>
 
 # 💻 Technology Stack
 
@@ -33,10 +37,12 @@ Welcome! I'm glad to see you here 💜
 [![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.com/)
 
+<br>
+
 # 📊 GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=douglasilvadev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasilvadev&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasilvadev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitors](https://komarev.com/ghpvc/?username=douglasilvadev&color=9956f6)
+![Visitors](https://komarev.com/ghpvc/?username=douglasilvadev&color=8234e9)
