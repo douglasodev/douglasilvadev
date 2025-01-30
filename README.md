@@ -6,10 +6,10 @@
 
 - 🐍 Junior Python Developer and Generative AI Student
 - 🌱 Currently exploring well-done topics about Data Science, Big Data and LLMs
-- 🤝 Looking for collaborating with , open source and AI projects
+- 🤝 Looking for collaborating mainly with start-ups, open source community and AI projects
 - 💬 Ask me about **Python**, **Front-end**, **AI**, **LLMs**, **React**, etc
 - 🥅 **2025 Goals** is Data Science with Python
-- ✅ Make contributions integrating cutting-edge technologies with projects
+- ✅ Make contributions integrating cutting-edge technologies with big projects
 <br>
 
 ## Contact
